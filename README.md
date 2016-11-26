@@ -1,1 +1,4 @@
-# labs-2016-11-19
+# Tech @ Agoda #4 Lab Session
+## Scala Workshop
+Hosted by Levon Ter-Isahakyan
+
